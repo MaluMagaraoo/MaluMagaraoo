@@ -1,25 +1,20 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4A882,100:A67B5B&height=180&section=header&text=Maria%20Luiza%20Magarão&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Agile%20%7C%20Ciência%20da%20Computação&descSize=16&descAlignY=55&descAlign=50" width="100%" />
-
 </div>
-
 <p align="center">
   <em>Estagiária em Projetos de TI no Postalis — construindo experiência em DevOps, metodologias ágeis e arquiteturas modernas.</em>
 </p>
-
 <p align="center">
   <a href="https://github.com/MaluMagaraoo">
     <img src="https://img.shields.io/badge/-MaluMagaraoo-A67B5B?style=flat-square&logo=github&logoColor=fff" />
   </a>
-  <a href="https://linkedin.com/in/SEU-LINKEDIN">
+  <a href="https://www.linkedin.com/in/maria-luiza-magar%C3%A3o-500328347/">
     <img src="https://img.shields.io/badge/-LinkedIn-A67B5B?style=flat-square&logo=linkedin&logoColor=fff" />
   </a>
   <a href="mailto:SEU-EMAIL">
     <img src="https://img.shields.io/badge/-Email-A67B5B?style=flat-square&logo=gmail&logoColor=fff" />
   </a>
 </p>
-
 ---
 
 ### ☕ Sobre mim
@@ -104,7 +99,7 @@ Também já fui **monitora de Java** e participei de um **projeto de inclusão d
 ### 💬 Um pouco mais sobre mim
 
 - 🤝 Acredito que tecnologia é sobre **pessoas e processos**, não só código
-- 📚 Adoro ensinar — fui **monitora de Java** e participei de projeto de **inclusão digital**
+- 📚 Adoro ensinar, fui **monitora de Java** e participei de projeto de **inclusão digital**
 - ✨ Perfil organizado, dedicado e sempre disposta a aprender
 
 ---
